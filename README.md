@@ -47,7 +47,7 @@ Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found
   &nbsp; &nbsp;
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="r" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/garrettohara/garrettohara/main/icons/Raspberry_Pi-Logo.wine.svg" alt="arduino" width="40" height="40" /> </a>
+  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/garrettohara/garrettohara/main/icons/Raspberry_Pi-Logo.wine.svg" alt="raspberrypi" width="40" height="40" /> </a>
   &nbsp; &nbsp;
 </div>
 
