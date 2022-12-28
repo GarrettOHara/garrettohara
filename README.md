@@ -4,7 +4,7 @@
 
 Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found/Backend Software Engineer at Bucket Inc. I received my B.S. in Computer Science and Mathematics from San Diego State University, and I am currently pursing an M.S. in Computer Science from The Georgia Institue of Technology. I'm a tech enthusiast, security advocate, and acoustic guitarist.Check out my [Portfolio Website](https://sites.gatech.edu/garrettohara/) and [Resume](https://drive.google.com/file/d/1JwYuuda4xQbo--b1MNOL0iSi6Bd5fG-u/view?usp=sharing) to learn more about me and my projects.
 
-![Garrett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garrettohara&show_icons=true&theme=radical)
+![Garrett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garrettohara&show_icons=true&theme=monokai)
 
 ## 📇 Social & Contact
 
@@ -30,9 +30,9 @@ Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found
   &nbsp; &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/garrettohara/garrettohara/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
+  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/garrettohara/garrettohara/main/icons/c/c.svg" alt="c" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/garrettohara/garrettohara/main/icons/cplusplus.svg" alt="cplusplus" width="40" height="40" /> </a>
+  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/garrettohara/garrettohara/main/icons/cplusplus/cplusplus.svg" alt="cplusplus" width="40" height="40" /> </a>
   &nbsp; &nbsp;
 </div>
 
@@ -105,11 +105,8 @@ Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found
 &nbsp; &nbsp;
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=garrettohara&repo=autocorrect)](https://github.com/garrettohara/autocorrect) -->
 
-
-
 <!--
 ## 🐍 Contribution Graph
 
 ![Snake Game](https://github.com/garrettohara/garrettohara/blob/output/github-snake.gif)
 -->
-
