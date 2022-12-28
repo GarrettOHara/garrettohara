@@ -30,9 +30,9 @@ Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found
   &nbsp; &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/garrettohara/garrettohara/main/icons/c/c.svg" alt="c" width="40" height="40" /> </a>
+  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/garrettohara/garrettohara/main/icons/cplusplus/cplusplus.svg" alt="cplusplus" width="40" height="40" /> </a>
+  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/cplusplus.svg" alt="cplusplus" width="40" height="40" /> </a>
   &nbsp; &nbsp;
 </div>
 
