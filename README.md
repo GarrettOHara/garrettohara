@@ -2,9 +2,8 @@
 
 ## 👤 About Me
 
-Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found/Backend Software Engineer at Bucket Inc. I received my B.S. in Computer Science and Mathematics from San Diego State University, and I am currently pursing an M.S. in Computer Science from The Georgia Institue of Technology. I'm a tech enthusiast, security advocate, and acoustic guitarist.Check out my [Portfolio Website](https://sites.gatech.edu/garrettohara/) and [Resume](https://drive.google.com/file/d/1JwYuuda4xQbo--b1MNOL0iSi6Bd5fG-u/view?usp=sharing) to learn more about me and my projects.
+Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found/Backend Software Engineer at Bucket Inc. I received my B.S. in Computer Science and Mathematics from San Diego State University, and I am currently pursing an M.S. in Computer Science from The Georgia Institue of Technology. I'm a tech enthusiast, security advocate, and acoustic guitarist. Check out my [Portfolio Website](https://sites.gatech.edu/garrettohara/) and [Resume](https://drive.google.com/file/d/1JwYuuda4xQbo--b1MNOL0iSi6Bd5fG-u/view?usp=sharing) to learn more about me and my projects.
 
-![Garrett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garrettohara&show_icons=true&theme=monokai)
 
 ## 📇 Social & Contact
 
@@ -41,30 +40,31 @@ Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found
 <div align="left">
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
   &nbsp; &nbsp;
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="r" width="40" height="40" /> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="r" width="40" height="40" /> </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/garrettohara/garrettohara/main/icons/Raspberry_Pi-Logo.wine.svg" alt="raspberrypi" width="40" height="40" /> </a>
   &nbsp; &nbsp;
 </div>
 
 ## 📊 GitHub Stats
-
 <table>
   <tr>
     <td>
-      <a href="https://github.com/garrettohara/github-readme-stats"> <img src="https://github-readme-stats-garrettohara.vercel.app/api?username=garrettohara&hide_border=true&show_icons=true&count_private=true" alt="Garrett O'Hara GitHub Stats" /> </a>
+      <a href="https://github.com/garrettohara/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=garrettohara&show_icons=true&theme=monokai" alt="Garrett O'Hara GitHub Stats" /> </a>
     </td>
     <td>
-      <a href="https://github.com/garrettohara/github-readme-stats"> <img src="https://github-readme-stats-garrettohara.vercel.app/api/top-langs/?username=garrettohara&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+      <a href="https://github.com/garrettohara/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garrettohara&layout=compact&theme=monokai" alt="Top Languages" /> </a>
     </td>
   </tr>
   <tr>
     <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=garrettohara&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Garrett O'Hara GitHub Readme Streak Stats" /> </a>
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=garrettohara&hide_border=true&theme=monokai&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Garrett O'Hara GitHub Readme Streak Stats" /> </a>
     </td>
   </tr>
 </table>
