@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found/Backend Software Engineer at Bucket Inc. I received my B.S. in Computer Science and Mathematics from San Diego State University, and I am currently pursing an M.S. in Computer Science from The Georgia Institue of Technology. I'm a tech enthusiast, security advocate, and acoustic guitarist. Check out my [Portfolio Website](https://sites.gatech.edu/garrettohara/) and [Resume](https://drive.google.com/file/d/1JwYuuda4xQbo--b1MNOL0iSi6Bd5fG-u/view?usp=sharing) to learn more about me and my projects.
+Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found/Backend Software Engineer at Bucket Inc. I received my B.S. in Computer Science and Mathematics from San Diego State University, and I am currently pursing an M.S. in Computer Science from The Georgia Institue of Technology. I'm a tech enthusiast, security advocate, and acoustic guitarist. Check out my [Porfolio](https://garrettohara.github.io), [Blog](https://sites.gatech.edu/garrettohara/) and [Resume](https://drive.google.com/file/d/1JwYuuda4xQbo--b1MNOL0iSi6Bd5fG-u/view?usp=sharing) to learn more about me and my projects.
 
 
 ## 📇 Social & Contact
@@ -53,6 +53,13 @@ Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found
 </div>
 
 ## 📊 GitHub Stats
+<details><summary>Summary</summary>
+<a href="https://github.com/garrettohara/github-readme-stats"> 
+<img src="https://github-readme-stats.vercel.app/api?username=garrettohara&show_icons=true&theme=monokai" alt="Garrett O'Hara GitHub Stats"/></a>
+</details>
+
+
+<!--
 <table>
   <tr>
     <td>
@@ -68,6 +75,7 @@ Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found
     </td>
   </tr>
 </table>
+ -->
 
 <!--
 <table>
