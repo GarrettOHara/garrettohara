@@ -54,8 +54,21 @@ Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found
 
 ## 📊 GitHub Stats
 <details><summary>Summary</summary>
-<a href="https://github.com/garrettohara/github-readme-stats"> 
-<img src="https://github-readme-stats.vercel.app/api?username=garrettohara&show_icons=true&theme=monokai" alt="Garrett O'Hara GitHub Stats"/></a>
+  <a href="https://github.com/garrettohara/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=garrettohara&show_icons=true&theme=monokai" alt="General GitHub Stats"/>
+  </a>
+</details>
+
+<details><summary>Streaks</summary>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=garrettohara&hide_border=true&theme=monokai" alt="Streak Stats"/> 
+  </a>
+</details>
+
+<details><summary>Top languages</summary>
+  <a href="https://github.com/garrettohara/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garrettohara&layout=compact&theme=monokai" alt="Top Languages" />
+  </a>
 </details>
 
 
@@ -103,7 +116,7 @@ Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found
 </table>
 -->
 
-## 📚 Repositories
+<!-- ## 📚 Repositories -->
 
 <!-- [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=garrettohara&repo=console-games)](https://github.com/garrettohara/console-games)
 &nbsp; &nbsp;
