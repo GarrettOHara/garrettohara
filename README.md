@@ -10,7 +10,7 @@ Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found
 <div align="left">
   <a href="mailto:garrettohara2018@gmail.com" target="_blank" rel="noreferrer"> <img alt="Garrett O'Hara E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   &nbsp;
-  <a href="https://sites.gatech.edu/garrettohara/" target="_blank" rel="noreferrer"> <img alt="Garrett O'Hara Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  <a href="https://garrettohara.github.io" target="_blank" rel="noreferrer"> <img alt="Garrett O'Hara Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/garrettohara" target="_blank" rel="noreferrer"> <img alt="Garrett O'Hara LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
