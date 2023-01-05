@@ -55,19 +55,19 @@ Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found
 ## 📊 GitHub Stats
 <details><summary>Summary</summary>
   <a href="https://github.com/garrettohara/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=garrettohara&show_icons=true&theme=monokai" alt="General GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=garrettohara&show_icons=true" alt="General GitHub Stats"/>
   </a>
 </details>
 
 <details><summary>Streaks</summary>
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=garrettohara&hide_border=true&theme=monokai" alt="Streak Stats"/> 
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=garrettohara&hide_border=true" alt="Streak Stats"/> 
   </a>
 </details>
 
 <details><summary>Top languages</summary>
   <a href="https://github.com/garrettohara/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garrettohara&layout=compact&theme=monokai" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garrettohara&layout=compact" alt="Top Languages" />
   </a>
 </details>
 
