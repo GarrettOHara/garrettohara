@@ -8,16 +8,31 @@ Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found
 ## 📇 Social & Contact
 
 <div align="left">
-  <a href="mailto:garrettohara2018@gmail.com" target="_blank" rel="noreferrer"> <img alt="Garrett O'Hara E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  <a href="mailto:garrettohara2018@gmail.com" target="_blank" rel="noreferrer">
+    <img alt="Garrett O'Hara E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   &nbsp;
-  <a href="https://garrettohara.github.io" target="_blank" rel="noreferrer"> <img alt="Garrett O'Hara Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  <a href="https://medium.com/@garrettohara" target="_blank" rel="noreferrer">
+    <img alt="Garrett O'Hara Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/garrettohara" target="_blank" rel="noreferrer"> <img alt="Garrett O'Hara LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="https://garrettohara.github.io" target="_blank" rel="noreferrer">
+    <img alt="Garrett O'Hara Portfolio" src="https://img.shields.io/badge/Portfolio-08203A?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
   &nbsp;
-  <a href="https://github.com/GarrettOHara" target="_blank" rel="noreferrer"> <img alt="Garrett O'Hara GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+  <a href="https://www.linkedin.com/in/garrettohara" target="_blank" rel="noreferrer">
+    <img alt="Garrett O'Hara LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   &nbsp;
-  <a href="https://leetcode.com/garrettohara/" target="_blank" rel="noreferrer"> <img alt="Garrett O'Hara LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
+  <a href="https://github.com/GarrettOHara" target="_blank" rel="noreferrer">
+    <img alt="Garrett O'Hara GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/garrettohara/" target="_blank" rel="noreferrer">
+    <img alt="Garrett O'Hara LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
 </div>
+
 
 ## ⚙ Skills
 
