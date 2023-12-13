@@ -44,7 +44,7 @@ Hey :) I'm Garrett O'Hara. I'm a DevOps Engineer at NBC Sports Next and Co-Found
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="https://dev.java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   </a>
   &nbsp; &nbsp;
